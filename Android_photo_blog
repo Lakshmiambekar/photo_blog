@@ -1,0 +1,10 @@
+Set up a mobile application powered with Stream APIs. 
+The application mimics an Instagram-style application 
+where users can take photos, share them publicly, follow other users, 
+see a notification feed and aggregated data along the way.
+When the mobile app starts, users see a global feed,
+which we recommend when you want a single activity feed of all activities of users.
+The backend retrieves the data from Stream, does some manipulation to show likes on the photo, the author details, and 
+sends that back to the mobile client. 
+Firebase gives the tools to develop high-quality apps, grow user base, and earn more money. 
+The essentials can monetize business and focus on users.
